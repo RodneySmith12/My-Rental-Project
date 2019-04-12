@@ -1,0 +1,410 @@
+
+.Navbar ul {
+margin: 0;  
+}
+.Navbar ul li{
+  list-style-type: none;
+  display: inline-flex;
+  padding: 20px;
+}
+.Navbar{
+  background-color: grey;
+}
+.Navbar ul li:hover{
+color: rgb(217, 217, 235); 
+}
+#ApprovedFeatures{
+  margin-right: 80px;
+}
+/* #input12{
+  margin-left:160px;
+  padding:10px;
+}
+#input13{
+  margin-left:300px;
+
+} */
+.background-picture{
+  background-image: url("images/exoticbackground.jpg");
+}
+.InPut{
+    padding:35px;
+}
+.Love1 h1{
+  /* margin-left: 320px; */
+  text-align: center;
+}
+.Love1 h1 h4{
+    /* margin-left:230px; */
+  text-align: center;
+}
+/* #input14{
+  margin-left:300px;
+} */
+.InPut{
+  background-color:rgb(73, 69, 69);
+  padding:15px;
+  /* margin-top: -16px; */
+}
+.Navbar ul{
+  /* margin-left:150px; */
+  text-align: center;
+}
+#About{
+  margin-right: 130px;
+}
+#Rent{
+  margin-right:100px;
+}
+#Membership{
+  margin-right:100px;
+}
+#FAQ{
+  margin-right:100px;
+}
+.Love1{
+  background-color: rgb(236, 230, 230);
+  /* margin-top: -22px; */
+  position: relative;
+
+}
+#Love11{
+  margin-left:100px;
+}
+#row1{
+  position: relative;
+  text-align: center;
+}
+#Love12{
+   /* margin-left:50px; */
+  padding:10px;
+  /* margin-bottom:40px; 
+  position: relative;
+  text-align: center; */
+  /* margin-left: 35px; */
+}
+#hr{
+  width:10px;
+  color: black; 
+}
+.Love1 h1 {
+  /* margin-left:340; */
+  position: relative;
+  text-align: center;
+}
+.Love1 h4 {
+  /* margin-left:200px;
+  margin-top: -30px; */
+  position: relative;
+  text-align: center;
+  /* padding: 40px; */
+}
+#button21{
+   /* margin-left: 475px;  */
+   /* position: relative;  
+  text-align: center; */
+  padding:10px;
+  /* margin-left: 490px; */
+   /* margin-bottom:-40px;  */
+}
+.approved h1 {
+  /* margin-left: 450px; */
+  text-align: center;
+}
+.approved h4{
+  /* margin-left:200px; */
+  /* margin-top:20px; */
+  text-align: center;
+}
+.main-center{
+  margin-top:30px;
+}
+.main-center ul li{
+  list-style-type: none;
+}
+
+.Rentonline{
+  margin-top:70px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    background-color: #d7cec7;
+    min-width: 160px;
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-content i {
+    position: absolute;
+    top: -20px;
+    left: 0px;
+    color: #d7cec7;
+    font-size: 32px;
+    padding: 0 28px 0 8px;
+  }
+  .Rentonline ul li{
+    
+    display:inline-flex;
+  }
+  .Rentonline ul h4{
+    display:inline-flex;
+    margin-left: 50px;
+    margin-top:-50px;
+  }
+  .Rentonline ul li h4{
+      display:inline-flex;
+  }
+  Rentlorem ul li h4{
+      list-style-type:none;
+  }
+  .Contact{
+  margin-left: 515px;
+  margin-top: -185px;
+  }
+  #LVRT{
+  margin-left:55px;
+  /* margin-top: 20px; */
+  }
+  .vl {
+  border-left: 6px solid darkgrey;
+  height: 100px;
+}
+.main-market{
+  background-color:rgb(230, 225, 225);
+  margin-top:60px;
+}
+.main-market h1{
+  position: relative;
+  text-align: center;
+}
+  .Block{
+    padding:20px;
+    height:20px;
+    width:20px;
+    background-color: darkslategrey;
+    margin-top:40px;
+  }
+  .Block2{
+  padding:20px;
+  height:20px;
+  width:20px;
+  background-color: darkslategrey;
+  margin-left:60px;
+  margin-top:-40px;
+}
+.Block3{
+  padding:20px;
+  height:20px;
+  width:20px;
+  background-color: darkslategrey;
+  margin-left:120px;
+  margin-top:-40px;
+}
+.Block4{
+  padding:20px;
+  height:20px;
+  width:20px;
+  background-color: darkslategrey;
+  margin-left:180px;
+  margin-top:-40px;
+}
+.Block5{
+  padding:20px;
+  height:20px;
+  width:20px;
+  background-color: darkslategrey;
+  margin-top:10px;
+}
+.Block6{
+  padding:20px;
+  height:20px;
+  width:20px;
+  background-color: darkslategrey;
+  margin-left:120px;
+  margin-top:-40px;
+}
+.Block7{
+  padding:20px;
+  height:20px;
+  width:20px;
+  background-color: darkslategrey;
+  margin-left:60px;
+  margin-top:-40px;
+}
+.Block8{
+  padding:20px;
+  height:20px;
+  width:20px;
+  background-color: darkslategrey;
+  margin-left:180px;
+  margin-top:-40px;
+}
+.footer{
+  background-color:grey;
+  margin-top:100px;
+}
+#row2{
+  margin-left:50px;
+}
+#Container45{
+  margin-left:630px;
+  margin-top:20px;
+}
+#Container44{
+  margin-top:40px;
+}
+#Home{
+  margin-right:100px;
+}
+
+.background-picture {
+  padding: 140px;
+  background: url('../images/exoticbackground.jpg') no-repeat center;
+  background-size: cover;
+}
+/* @media (max-width:1024px) {
+    /* #button21{
+      margin-left: 250px; */
+    }
+}
+/* @media (max-width:425px) {
+  
+} */ 
+@media (min-width: 320px) and (max-width: 480px) {
+  .main-market h1{
+    /* margin-left: 500px; */
+    margin-left: -100px;
+  }
+  
+  
+}
+/* Small Screens */
+@media only screen and (max-width: 40em) { 
+  /* #Love12{
+    margin-left:13px;
+  } */
+  #input12{
+    margin-left:40px;
+  }
+  #input13{
+    margin-left:40px;
+  }
+  #input14{
+    margin-left:40px;
+  }
+   /* #Home{
+    margin-left:-105px;
+  } */
+  #About{
+    margin-top:-60px;
+    margin-left:30px; 
+  }
+  #Rent{
+    margin-top:-30px;
+  }
+  #ApprovedFeatures{
+    margin-top:-30px;
+  }
+  #FAQ{
+    margin-top:-30px;
+    margin-left: 16px;
+  }
+  #Register{
+    margin-top:-30px;
+    margin-right:85px;
+  }
+  .Navbar ul li{
+    display: inline-flex;
+  }
+  .background-picture{
+     background: url('../images/exoticbackground.jpg') no-repeat center; 
+    height: 100%;
+    width:100%;
+    padding:0px;
+  }
+}
+/* Tablet Size Screens */
+@media(min-width:768px){
+  #ApprovedFeatures{
+   margin-left:-40px; 
+  }
+  #FAQ{
+    margin-left:-70px;
+  }
+  #About{
+    margin-left:-25px;
+  }
+}
+@media(min-width:1024px){
+  #Rent{
+    margin-left: -70px;
+  }
+  #FAQ{
+    /* margin-right:10px; */
+    margin-left:-20px;
+  }
+}
+ /* @media(min-width:425px){
+  #FAQ{
+     margin-top:-10px; 
+  }
+  #Register{
+    margin-left:-90px;
+    margin-top:30px;
+    
+  } */
+
+} 
+@media(min-width:768px){
+  #ApprovedFeatures{
+     margin-left:-56px; 
+  }
+  #FAQ{
+    
+  }
+}
+/* @media(min-width:2720px){
+  #Register{
+    margin-left:200px;
+  }
+  #FAQ{
+    margin-left:175px;
+  }
+  #ApprovedFeatures{
+    margin-right:-50px;
+  }
+} */
+@media(min-width:425px){
+  #Register{
+    margin-top:-20px;
+    
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
