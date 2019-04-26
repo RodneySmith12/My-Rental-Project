@@ -344,6 +344,7 @@ color: rgb(217, 217, 235);
     margin-left:-25px;
   }
 }
+/* Laptop */
 @media(min-width:1024px){
   #Rent{
     margin-left: -70px;
@@ -368,8 +369,8 @@ color: rgb(217, 217, 235);
   #ApprovedFeatures{
      margin-left:-56px; 
   }
-  #FAQ{
-    
+  #Register{
+    margin-left: 10px;
   }
 }
 /* @media(min-width:2720px){
