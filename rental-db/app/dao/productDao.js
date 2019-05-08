@@ -22,7 +22,8 @@
                     row.power,
                     row.miles,
                     row.price,
-                    row.vendor
+                    row.vendor,
+                    row.image
                 ));
             }
             return products;
@@ -45,7 +46,8 @@
                     row.power,
                     row.miles,
                     row.price,
-                    row.vendor
+                    row.vendor,
+                    row.image
                 ));
             }
             return products;
@@ -68,7 +70,8 @@
                     row.power,
                     row.miles,
                     row.price,
-                    row.vendor
+                    row.vendor,
+                    // row.image
                 ));
             }
             return products;

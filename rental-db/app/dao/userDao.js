@@ -18,7 +18,7 @@
                     row.lastName,
                     row.dob,
                     row.phone,
-                    row.email,
+                    row.email
                 ));
             }
             return users;

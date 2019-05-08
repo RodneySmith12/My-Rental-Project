@@ -53,9 +53,7 @@ color: rgb(217, 217, 235);
 #About{
   margin-right: 130px;
 }
-#Rent{
-  margin-right:100px;
-}
+
 #Membership{
   margin-right:100px;
 }
@@ -122,7 +120,6 @@ color: rgb(217, 217, 235);
 .main-center ul li{
   list-style-type: none;
 }
-
 .Rentonline{
   margin-top:70px;
 }
@@ -256,7 +253,6 @@ color: rgb(217, 217, 235);
   margin-left:50px;
 }
 #Container45{
-  margin-left:630px;
   margin-top:20px;
 }
 #Container44{
@@ -308,12 +304,13 @@ color: rgb(217, 217, 235);
     margin-top:-60px;
     margin-left:30px; 
   }
-  #Rent{
-    margin-top:-30px;
+   #Rent{
+     margin-top:-30px; 
   }
   #ApprovedFeatures{
-    margin-top:-30px;
-  }
+     margin-top:-30px; 
+  } 
+
   #FAQ{
     margin-top:-30px;
     margin-left: 16px;
@@ -390,6 +387,10 @@ color: rgb(217, 217, 235);
     
   }
   
+}
+.Wrapper1{
+  background: url('../images/exoticbackground.jpg') no-repeat center; 
+  margin-top:0px;
 }
 
 
